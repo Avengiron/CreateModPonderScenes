@@ -1,0 +1,6 @@
+Ponder for KubeJS (+ Architectury API + Rhino + KubeJS + Create)
+Thermal Expansion (+ Cofh Core + Thermal Foundation)
+Ender Storage (+ CodeChicken Lib)
+Tinker's Construct (+ Mantle)
+Applied Energistics 2
+Metal Barrels
